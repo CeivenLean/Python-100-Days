@@ -3,6 +3,8 @@ venv
 *.pyc
 __pycache__
 
+/venv/*
+
 ### VisualStudioCode ###
 .vscode/*
 .vscode/**
